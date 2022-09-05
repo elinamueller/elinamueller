@@ -1,2 +1,2 @@
 - Hi, I’m Elina and I’m interested in all things computer.
-- I’m currently learning Front-End Development.
+- I’m currently learning Backend Development.
